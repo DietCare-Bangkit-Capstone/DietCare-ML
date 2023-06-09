@@ -2,8 +2,8 @@
    An android application that makes it easy for users to do a diet program, and provides healthy food recommendations based on nutrients or calories generated from the Body Mass Index.
 
 ### 🎏 Team ID : C23-PR531
-### 💪 Team Members
-- Hanif Al Irsyad (M136DKX4313) **Machine Learning Path** *(which makes Repository, EDA, Modeling, Deployment.)*
+### 💪 Team Members 
+- M136DKX4313 - Hanif Al Irsyad - **Machine Learning Path**  *(which makes Repository, EDA, Modeling, Deployment)*
 
   Theme : Human healthcare and Living well beings
 
