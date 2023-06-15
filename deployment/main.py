@@ -105,7 +105,7 @@ def recol():
     sorted_recipes = dataset.sort_values('Distance')
 
     # Select top k recipes
-    top_recipes = sorted_recipes.head(5)
+    top_recipes = sorted_recipes.head(15)
 
     # Test the recommendation system
     # recommended_recipes = top_recipes(prediction, top_k=5)
