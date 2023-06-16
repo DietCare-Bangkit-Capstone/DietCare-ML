@@ -4,6 +4,7 @@
 ### 🎏 Team ID : C23-PR531
 ### 💪 Team Members 
 - M136DKX4313 - Hanif Al Irsyad - **Machine Learning Path**  *(which makes Repository, EDA, Modeling, Deployment)*
+- M181DKX3762 - Yudha Adi Putra -  **Machine Learning Path**  *(which helps UI, Video Editing and Power Point, Contact Person to advisor, Modeling)*
 
   Theme : Human healthcare and Living well beings
 
